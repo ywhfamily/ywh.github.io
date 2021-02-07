@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ywhfamily.github.io</id>
     <title>YWH Family</title>
-    <updated>2021-02-07T10:00:41.140Z</updated>
+    <updated>2021-02-07T10:16:10.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ywhfamily.github.io"/>
     <link rel="self" href="https://ywhfamily.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://ywhfamily.github.io/images/avatar.png</logo>
     <icon>https://ywhfamily.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, YWH Family</rights>
+    <entry>
+        <title type="html"><![CDATA[Provicy Policy]]></title>
+        <id>https://ywhfamily.github.io/post/provicy-policy/</id>
+        <link href="https://ywhfamily.github.io/post/provicy-policy/">
+        </link>
+        <updated>2021-02-07T10:14:28.000Z</updated>
+        <content type="html"><![CDATA[<p>Hello</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ywhfamily.github.io/post/hello-gridea/</id>
