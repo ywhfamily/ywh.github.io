@@ -1,139 +1,228 @@
-
 <!DOCTYPE html>
 <html>
   <head>
-    
-<meta charset="utf-8" >
+    <meta charset="utf-8" >
 
-<title>关于 | YWH Family</title>
+<title>About | YWH Family</title>
 <meta name="description" content="Logic &amp; Math Puzzles">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+<link rel="shortcut icon" href="https://ywhfamily.github.io/favicon.ico?v=1612702931029">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://ywhfamily.github.io/favicon.ico?v=1612700899747">
+<link rel="stylesheet" href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://ywhfamily.github.io/styles/main.css">
 
 
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
 
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  
+
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
 
   </head>
   <body>
-    <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      <a href="https://ywhfamily.github.io">
-        <img class="avatar" src="https://ywhfamily.github.io/images/avatar.png?v=1612700899747" alt="" width="32px" height="32px">
-      </a>
-      <a href="https://ywhfamily.github.io">
-        <h1 class="site-title">YWH Family</h1>
-      </a>
-    </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
-    </div>
+  
+    <nav class="navbar border fixed split-nav">
+  <div class="nav-brand">
+    <h3><a href="https://ywhfamily.github.io">YWH Family</a></h3>
   </div>
-</div>
-
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
-      
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+      <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
         
-          <a href="/" class="menu purple-link">
-            Home
-          </a>
-        
-      
-        
-          <a href="/archives" class="menu purple-link">
-            Archives
-          </a>
-        
-      
-        
-          <a href="/tags" class="menu purple-link">
-            Tags
-          </a>
-        
-      
-        
-          <a href="/post/about" class="menu purple-link">
-            About
-          </a>
-        
-      
-    </div>
-  </div>
-</transition>
-
-
-      <div class="content-container">
-        <div class="post-detail">
-          
-          <h2 class="post-title">关于</h2>
-          <div class="post-info post-detail-info">
-            <span><i class="icon-calendar-outline"></i> 2019-01-25</span>
+          <li>
             
-          </div>
-          <div class="post-content">
-            <blockquote>
-<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+              <a href="/" class="menu">
+                Home
+              </a>
+            
+          </li>
+        
+          <li>
+            
+              <a href="/archives" class="menu">
+                Archives
+              </a>
+            
+          </li>
+        
+          <li>
+            
+              <a href="/tags" class="menu">
+                Tags
+              </a>
+            
+          </li>
+        
+          <li>
+            
+              <a href="/post/about" class="menu">
+                About
+              </a>
+            
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div id="top" class="row site">
+      <div class="sm-12 md-8 col">
+        <div class="paper">
+          <article class="article">
+            <h1>About</h1>
+            <p class="article-meta">
+              2019-01-25
+              
+            </p>
+            
+            <div class="post-content">
+              <blockquote>
+<p>Welcome to YWH Family.</p>
 </blockquote>
 <h2 id="关于本站">🏠 关于本站</h2>
 <h2 id="博主是谁">👨‍💻 博主是谁</h2>
 <h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
 <h2 id="联系我呀">📬 联系我呀</h2>
 
-          </div>
+            </div>
+          </article>
         </div>
+        <div class="paper" data-aos="fade-in">
+          
+        </div>
+        
+          
+            <div class="paper" data-aos="fade-in">
+              <div id="gitalk-container"></div>
+            </div>
+          
 
+          
         
       </div>
 
+      <div class="sm-12 md-4 col sidebar">
+  <div class="paper info-container">
+    <img src="https://ywhfamily.github.io/images/avatar.png?v=1612702931029" class="no-responsive avatar">
+    <div class="text-muted">Logic & Math Puzzles</div>
+    <div class="social-container">
       
-
-      <div class="site-footer">
-  <div class="slogan">Logic & Math Puzzles</div>
-  <div class="social-container">
-    
+        
       
-    
+        
       
-    
+        
       
-    
+        
       
-    
+        
       
-    
+    </div>
   </div>
-  <a href = "https://ywhfamily.github.io/post/terms-and-conditions/" target="_blank">Terms</a> | <a href = "https://ywhfamily.github.io/post/provicy-policy/" target="_blank">Provicy</a> | <a class="rss" href="https://ywhfamily.github.io/atom.xml" target="_blank">RSS</a>
+  <div class="paper">
+    <div class="sidebar-title">
+      最新文章
+    </div>
+    <div class="row">
+      <ul>
+        
+          
+            <li>
+              <a href="https://ywhfamily.github.io/post/tangram-polyform/">Tangram &amp; Polyform</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="https://ywhfamily.github.io/post/terms-and-conditions/">Terms &amp; Conditions</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="https://ywhfamily.github.io/post/provicy-policy/">Privacy Policy</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="https://ywhfamily.github.io/post/about/">About</a>
+            </li>
+          
+        
+      </ul>
+    </div>
+  </div>
+  <div class="paper">
+    <div class="sidebar-title">
+      标签列表
+    </div>
+    <div class="row">
+      
+        <a href="https://ywhfamily.github.io/tag/G5AVFWDoJ/" class="badge ">
+          Logic
+        </a>
+      
+    </div>
+  </div>
+  <div class="paper">
+    <a href = "https://ywhfamily.github.io/post/terms-and-conditions/" target="_blank">Terms</a> | <a href = "https://ywhfamily.github.io/post/provicy-policy/" target="_blank">Provicy</a> | <a class="rss" href="https://ywhfamily.github.io/atom.xml" target="_blank">RSS</a>
+  </div>
 </div>
 
 
     </div>
-    <script type="application/javascript">
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+<script type="application/javascript">
+
+AOS.init();
 
 hljs.initHighlightingOnLoad()
 
-var app = new Vue({
-  el: '#app',
-  data: {
-    menuVisible: false,
-  },
-})
-
 </script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '8b195496e2190fdaa90b',
+        clientSecret: 'd547f0728e32bc8798e5ac5433aadf62f652b1c0',
+        repo: 'ywhfamily.github.io',
+        owner: 'ywhfamily',
+        admin: ['ywhfamily'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
