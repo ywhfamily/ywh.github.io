@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ywhfamily.github.io</id>
     <title>YWH Family</title>
-    <updated>2021-02-14T12:01:09.133Z</updated>
+    <updated>2021-02-14T12:34:10.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ywhfamily.github.io"/>
     <link rel="self" href="https://ywhfamily.github.io/atom.xml"/>
@@ -50,10 +50,16 @@ Rotate:Long touch the Piece.</p>
 <p>C. Get Hint: Click the Hint Button. Each Level has 2 hints.</p>
 <p>Getting Support:<br>
 mail: ywhfamily@hotmail.com</p>
-<table border="1">
+<table>
 <tr>
-<th>Month</th>
-<th>Savings</th>
+<th>
+<a href="https://itunes.apple.com/cn/app/id1437352353"><img src="https://ywhfamily.github.io/images/ios.jpeg" width="50%" height="50%" alt="App Store"/></a>
+<a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.game.tangram"><img src="https://ywhfamily.github.io/images/google.jpeg" width="50%" height="50%" alt="Google Play"/></a>
+</th>
+<th>
+<a href="itms-apps://itunes.apple.com/app/id1437406341"><img src="https://ywhfamily.github.io/images/mac.jpeg" width="50%" height="50%" alt="Mac App Store"/></a>
+<a href="https://www.microsoft.com/store/apps/9NZ7W215BL1C"><img src="https://ywhfamily.github.io/images/microsoft.jpeg" width="50%" height="50%" alt="Microsoft Store"/></a>
+</th>
 </tr>
 </table>
 ]]></content>
