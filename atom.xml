@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ywhfamily.github.io</id>
     <title>YWH Family</title>
-    <updated>2021-02-08T10:07:42.640Z</updated>
+    <updated>2021-02-14T12:01:09.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ywhfamily.github.io"/>
     <link rel="self" href="https://ywhfamily.github.io/atom.xml"/>
@@ -16,11 +16,9 @@
         <link href="https://ywhfamily.github.io/post/tangram-polyform/">
         </link>
         <updated>2021-02-07T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Fifteen Tiling Puzzles In One.<br>
-...</p>
+        <summary type="html"><![CDATA[<p>Fifteen Tiling Puzzles In One.</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>Fifteen Tiling Puzzles In One.<br>
-...</p>
+        <content type="html"><![CDATA[<p>Fifteen Tiling Puzzles In One.</p>
 <!-- more -->
 <ol>
 <li>
@@ -52,6 +50,12 @@ Rotate:Long touch the Piece.</p>
 <p>C. Get Hint: Click the Hint Button. Each Level has 2 hints.</p>
 <p>Getting Support:<br>
 mail: ywhfamily@hotmail.com</p>
+<table border="1">
+<tr>
+<th>Month</th>
+<th>Savings</th>
+</tr>
+</table>
 ]]></content>
     </entry>
 </feed>
