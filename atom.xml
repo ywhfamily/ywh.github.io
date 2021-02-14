@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ywhfamily.github.io</id>
     <title>YWH Family</title>
-    <updated>2021-02-14T12:34:10.596Z</updated>
+    <updated>2021-02-14T13:50:56.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ywhfamily.github.io"/>
     <link rel="self" href="https://ywhfamily.github.io/atom.xml"/>
@@ -10,6 +10,111 @@
     <logo>https://ywhfamily.github.io/images/avatar.png</logo>
     <icon>https://ywhfamily.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, YWH Family</rights>
+    <entry>
+        <title type="html"><![CDATA[Digit Matrix]]></title>
+        <id>https://ywhfamily.github.io/post/digit-matrix/</id>
+        <link href="https://ywhfamily.github.io/post/digit-matrix/">
+        </link>
+        <updated>2021-02-14T13:18:54.000Z</updated>
+        <summary type="html"><![CDATA[<p>Training mathematical thinking. Improving computational skills. Thirteen type interesting puzzles. The ultimate brain challenges.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Training mathematical thinking. Improving computational skills. Thirteen type interesting puzzles. The ultimate brain challenges.</p>
+<!-- more -->
+<p>Digit Matrix is a collection of interesting mathematics exercises. This APP can improve the ability of calculation and logical reasoning, and cultivate mathematical thinking. It includes topics ranging from simple to very difficult. It is a good helper in learning mathematics or training the brain.</p>
+<p>Feature:<br>
+Computing and Logical Reasoning<br>
+Thirteen types. Infinite exercises<br>
+Different Difficulties<br>
+Easy to get started<br>
+Five themes</p>
+<p>Contents:</p>
+<ol>
+<li>Arithmetic Square</li>
+<li>Chains</li>
+<li>SUMS</li>
+<li>Coins</li>
+<li>Hundred</li>
+<li>Antimagic Square</li>
+<li>Products</li>
+<li>Products (Off-by-One)</li>
+<li>Addends</li>
+<li>Equality</li>
+<li>Alphametic Square</li>
+<li>Matches Arithmetic</li>
+<li>Digit Twins</li>
+</ol>
+<p>Detail Information:</p>
+<ol>
+<li>
+<p>Arithmetic Square<br>
+Place the numbers from 1 to 9 into the cells (a different single number in each cell) so that the indicated equations are correct. Evaluate from left-to-right and top-to-bottom (ignore the usual precedence of the operators).</p>
+</li>
+<li>
+<p>Chains<br>
+Enter the numbers from 1 to X in the squares, once each, so that the given equations are correct. (Each equation begins at one square and ends at the next square; X is the total number of squares.)</p>
+</li>
+<li>
+<p>SUMS<br>
+Place a number from 1 to N into each cell. (N is the total number of cells in the grid.) Every cell must contain a different number. The numbers outside the grid, when given, indicate the sum of the numbers in the corresponding row, column, or diagonal.</p>
+</li>
+<li>
+<p>Coins<br>
+Place one coin into each cell such that the sum of the coins in each row and column matches the number to the left and the top. the same denomination may be used multiple times in each row or column.</p>
+</li>
+<li>
+<p>Hundred<br>
+A square grid whose cells are to be filled by some digits. The task is to fill additional digits in required cells such that the sum of numbers in each row and each column equals to 100.</p>
+</li>
+<li>
+<p>Antimagic Square<br>
+Place numbers from 1 to 2*N (N is the number of cells per side) into the cells so that there are exactly two numbers in each row, column and main diagonal. The sums of the two numbers are shown around the grid.</p>
+</li>
+<li>
+<p>Products<br>
+Place numbers from 1 to 2*N (N is the number of cells per side) into some cells so that each number is in exactly one cell, and no cell has more than one number. Each row and each column must contain exactly two numbers. Numbers outside the grid are the product of the two numbers in that row or column.</p>
+</li>
+<li>
+<p>Products (Off-by-One)<br>
+Place numbers from 1 to 2*N (N is the number of cells per side) into some cells so that each number is in exactly one cell, and no cell has more than one number. Each row and each column must contain exactly two numbers. Numbers outside the grid are 1 more or 1 less than the product of the two numbers in that row or column.</p>
+</li>
+<li>
+<p>Addends<br>
+Select Specified quantity of numbers from a given number set. Each number can not selected more than once. The sum of selected numbers must same as the given value.</p>
+</li>
+<li>
+<p>Equality<br>
+Delete Specified quantity of squares so that what remains is a correct equation. Use standard order of precedence (multiplication and division before addition and subtraction).</p>
+</li>
+<li>
+<p>Alphametic Square<br>
+Each letter represents a different digit.  Figure out which letter corresponds to which digit so that all equations are true.  Multi-digit numbers cannot start with the digit 0.</p>
+</li>
+<li>
+<p>Matches Arithmetic<br>
+Remove, Add or Move one to three matches so that the matches express a correct arithmetic equality. Click the match to remove it. Click the empty position to add the match.</p>
+</li>
+<li>
+<p>Digit Twins<br>
+Two numbers are connected by up to three line segments, and the two numbers are divided by their greatest common divisor at the same time. If the quotient is 1, the number will be eliminated. All numbers on the board need to be eliminated.</p>
+</li>
+</ol>
+<p>Getting Support:<br>
+mail: ywhfamily@hotmail.com<br>
+or leave comment below.</p>
+<table>
+<tr align="center">
+<th>
+<a href="https://itunes.apple.com/cn/app/id1450134270"><img src="https://ywhfamily.github.io/images/ios.jpeg" height="50" alt="App Store"/></a>
+<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.education.digitmatrix"><img src="https://ywhfamily.github.io/images/google.jpeg" height="50" alt="Google Play"/></a></p>
+</th>
+<th>
+<a href="https://itunes.apple.com/cn/app/id1450352656"><img src="https://ywhfamily.github.io/images/mac.jpeg" height="50" alt="Mac App Store"/></a>
+<p><a href="https://www.microsoft.com/store/apps/9NZDX1365JB4"><img src="https://ywhfamily.github.io/images/microsoft.jpeg" height="50" alt="Microsoft Store"/></a></p>
+</th>
+</tr>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tangram & Polyform]]></title>
         <id>https://ywhfamily.github.io/post/tangram-polyform/</id>
@@ -49,16 +154,17 @@ Flip:  Click the Piece.<br>
 Rotate:Long touch the Piece.</p>
 <p>C. Get Hint: Click the Hint Button. Each Level has 2 hints.</p>
 <p>Getting Support:<br>
-mail: ywhfamily@hotmail.com</p>
+mail: ywhfamily@hotmail.com<br>
+or leave comment below.</p>
 <table>
-<tr>
+<tr align="center">
 <th>
-<a href="https://itunes.apple.com/cn/app/id1437352353"><img src="https://ywhfamily.github.io/images/ios.jpeg" width="50%" height="50%" alt="App Store"/></a>
-<a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.game.tangram"><img src="https://ywhfamily.github.io/images/google.jpeg" width="50%" height="50%" alt="Google Play"/></a>
+<a href="https://itunes.apple.com/cn/app/id1437352353"><img src="https://ywhfamily.github.io/images/ios.jpeg" height="50" alt="App Store"/></a>
+<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.game.tangram"><img src="https://ywhfamily.github.io/images/google.jpeg" height="50" alt="Google Play"/></a></p>
 </th>
 <th>
-<a href="itms-apps://itunes.apple.com/app/id1437406341"><img src="https://ywhfamily.github.io/images/mac.jpeg" width="50%" height="50%" alt="Mac App Store"/></a>
-<a href="https://www.microsoft.com/store/apps/9NZ7W215BL1C"><img src="https://ywhfamily.github.io/images/microsoft.jpeg" width="50%" height="50%" alt="Microsoft Store"/></a>
+<a href="https://itunes.apple.com/cn/app/id1437406341"><img src="https://ywhfamily.github.io/images/mac.jpeg" height="50" alt="Mac App Store"/></a>
+<p><a href="https://www.microsoft.com/store/apps/9NZ7W215BL1C"><img src="https://ywhfamily.github.io/images/microsoft.jpeg" height="50" alt="Microsoft Store"/></a></p>
 </th>
 </tr>
 </table>
