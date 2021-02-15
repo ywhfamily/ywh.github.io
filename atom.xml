@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ywhfamily.github.io</id>
     <title>YWH Family</title>
-    <updated>2021-02-14T15:05:13.215Z</updated>
+    <updated>2021-02-15T06:24:58.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ywhfamily.github.io"/>
     <link rel="self" href="https://ywhfamily.github.io/atom.xml"/>
@@ -10,6 +10,58 @@
     <logo>https://ywhfamily.github.io/images/avatar.png</logo>
     <icon>https://ywhfamily.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, YWH Family</rights>
+    <entry>
+        <title type="html"><![CDATA[Tangram Plus]]></title>
+        <id>https://ywhfamily.github.io/post/tangram-plus/</id>
+        <link href="https://ywhfamily.github.io/post/tangram-plus/">
+        </link>
+        <updated>2021-02-15T06:06:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>Nine Tangram Puzzles.<br>
+Including Chinese classic Tangram and 15 pieces puzzle(Yi Zhi Tu), as well as T puzzle, Heart-shaped puzzle, Pythagoras, Sphinx and Modern Tangram.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Nine Tangram Puzzles.<br>
+Including Chinese classic Tangram and 15 pieces puzzle(Yi Zhi Tu), as well as T puzzle, Heart-shaped puzzle, Pythagoras, Sphinx and Modern Tangram.</p>
+<!-- more -->
+<p>A. About Tangram<br>
+Tangram is China's most famous puzzle. In the early nineteenth century tangram became the first international puzzle. There are many tangram style puzzle games in the world.</p>
+<p>B. About This Game<br>
+This game contains nine types of Tangram puzzle. Games and levels are constantly added. Tangram puzzles include the Chinese classic Tangram and 15 pieces puzzle(Yi Zhi Tu), as well as T puzzle, Heart-shaped puzzle, Pythagoras, Sphinx and Modern Tangram(Lou Zhuqiu). There are three kind of play methods. Not just move. You can play classic game(Move, Flip &amp; Rotate) or  for relaxing(Just Move).</p>
+<p>Features:</p>
+<ol>
+<li>Nine Types of tangram Puzzle.</li>
+<li>Three Play Methods.</li>
+<li>Over 2100 Levels and Will Add More.</li>
+<li>Easy to Play.</li>
+<li>Five Themes.</li>
+</ol>
+<p>C. How to Play</p>
+<ol>
+<li>This game have Three Play Methods.<br>
+Just Move.<br>
+Move &amp; Flip.<br>
+Move, Flip &amp; Rotate.</li>
+<li>Move:  Touch the Piece and move.<br>
+Flip:  Click the Piece.<br>
+Rotate:Long touch the Piece.</li>
+<li>Get Hint: Click the Hint Button. Each Level has 2 hints.</li>
+</ol>
+<p>Getting Support:<br>
+mail: ywhfamily@hotmail.com<br>
+or leave comment below.</p>
+<table>
+<tr align="center">
+<th>
+<a href="https://itunes.apple.com/cn/app/id1443254526"><img src="https://ywhfamily.github.io/images/ios.jpeg" alt="App Store"/></a>
+<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.game.tangram"><img src="https://ywhfamily.github.io/images/google.jpeg" alt="Google Play"/></a></p>
+</th>
+<th>
+<a href="https://itunes.apple.com/cn/app/id1437406341"><img src="https://ywhfamily.github.io/images/mac.jpeg" alt="Mac App Store"/></a>
+<p><a href="https://www.microsoft.com/store/apps/9NZ7W215BL1C"><img src="https://ywhfamily.github.io/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
+</th>
+</tr>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digit Matrix]]></title>
         <id>https://ywhfamily.github.io/post/digit-matrix/</id>
