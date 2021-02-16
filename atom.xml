@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ywhfamily.github.io</id>
     <title>YWH Family</title>
-    <updated>2021-02-15T06:24:58.206Z</updated>
+    <updated>2021-02-16T14:30:03.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ywhfamily.github.io"/>
     <link rel="self" href="https://ywhfamily.github.io/atom.xml"/>
@@ -11,212 +11,179 @@
     <icon>https://ywhfamily.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, YWH Family</rights>
     <entry>
-        <title type="html"><![CDATA[Tangram Plus]]></title>
-        <id>https://ywhfamily.github.io/post/tangram-plus/</id>
-        <link href="https://ywhfamily.github.io/post/tangram-plus/">
+        <title type="html"><![CDATA[Reverse - Unified Color]]></title>
+        <id>https://ywhfamily.github.io/post/reverse-unified-color/</id>
+        <link href="https://ywhfamily.github.io/post/reverse-unified-color/">
         </link>
-        <updated>2021-02-15T06:06:50.000Z</updated>
-        <summary type="html"><![CDATA[<p>Nine Tangram Puzzles.<br>
-Including Chinese classic Tangram and 15 pieces puzzle(Yi Zhi Tu), as well as T puzzle, Heart-shaped puzzle, Pythagoras, Sphinx and Modern Tangram.</p>
+        <updated>2021-02-16T14:03:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>The Puzzles of Color. You can Reverse, Rotate and Slide color blocks.  There are 18 puzzles. Each have 6 stages with infinite levels. You can play as long as you like.</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>Nine Tangram Puzzles.<br>
-Including Chinese classic Tangram and 15 pieces puzzle(Yi Zhi Tu), as well as T puzzle, Heart-shaped puzzle, Pythagoras, Sphinx and Modern Tangram.</p>
+        <content type="html"><![CDATA[<p>The Puzzles of Color. You can Reverse, Rotate and Slide color blocks.  There are 18 puzzles. Each have 6 stages with infinite levels. You can play as long as you like.</p>
 <!-- more -->
-<p>A. About Tangram<br>
-Tangram is China's most famous puzzle. In the early nineteenth century tangram became the first international puzzle. There are many tangram style puzzle games in the world.</p>
-<p>B. About This Game<br>
-This game contains nine types of Tangram puzzle. Games and levels are constantly added. Tangram puzzles include the Chinese classic Tangram and 15 pieces puzzle(Yi Zhi Tu), as well as T puzzle, Heart-shaped puzzle, Pythagoras, Sphinx and Modern Tangram(Lou Zhuqiu). There are three kind of play methods. Not just move. You can play classic game(Move, Flip &amp; Rotate) or  for relaxing(Just Move).</p>
-<p>Features:</p>
-<ol>
-<li>Nine Types of tangram Puzzle.</li>
-<li>Three Play Methods.</li>
-<li>Over 2100 Levels and Will Add More.</li>
-<li>Easy to Play.</li>
-<li>Five Themes.</li>
-</ol>
-<p>C. How to Play</p>
-<ol>
-<li>This game have Three Play Methods.<br>
-Just Move.<br>
-Move &amp; Flip.<br>
-Move, Flip &amp; Rotate.</li>
-<li>Move:  Touch the Piece and move.<br>
-Flip:  Click the Piece.<br>
-Rotate:Long touch the Piece.</li>
-<li>Get Hint: Click the Hint Button. Each Level has 2 hints.</li>
-</ol>
+<p>This APP include some simple and interesting puzzles of color.  Each have some modes and levels. All need to think and select.<br>
+Unified Color: Click to make all polygons have same color. More polygons will change the color when you click ones. There are three shapes(triangle, square, hexagon) and each have some patterns and six levels.<br>
+Rotating Color Puzzle:  Click to rotate color blocks to put them in right place. There are three shapes(triangle, square, hexagon) and each have six levels.<br>
+Cyclic Color Blocks: Slide the color blocks circularly to make the color same horizontally or vertically and horizontally. Including memory mode which hide the color when you sliding.</p>
+<p>This APP have 18 puzzles of color. Each have 6 stages with infinite levels. You can play as long as you like.</p>
 <p>Getting Support:<br>
 mail: ywhfamily@hotmail.com<br>
 or leave comment below.</p>
 <table>
 <tr align="center">
 <th>
-<a href="https://itunes.apple.com/cn/app/id1443254526"><img src="https://ywhfamily.github.io/images/ios.jpeg" alt="App Store"/></a>
-<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.game.tangram"><img src="https://ywhfamily.github.io/images/google.jpeg" alt="Google Play"/></a></p>
+<a href="https://itunes.apple.com/cn/app/id1492037153"><img src="https://ywhfamily.github.io/images/ios.jpeg" alt="App Store"/></a>
+<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.game.reverse"><img src="https://ywhfamily.github.io/images/google.jpeg" alt="Google Play"/></a></p>
 </th>
 <th>
-<a href="https://itunes.apple.com/cn/app/id1437406341"><img src="https://ywhfamily.github.io/images/mac.jpeg" alt="Mac App Store"/></a>
-<p><a href="https://www.microsoft.com/store/apps/9NZ7W215BL1C"><img src="https://ywhfamily.github.io/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
+<a href="https://itunes.apple.com/cn/app/id1492036381"><img src="https://ywhfamily.github.io/images/mac.jpeg" alt="Mac App Store"/></a>
+<p><a href="https://www.microsoft.com/store/apps/9NR50T673R44"><img src="https://ywhfamily.github.io/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
 </th>
 </tr>
 </table>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digit Matrix]]></title>
-        <id>https://ywhfamily.github.io/post/digit-matrix/</id>
-        <link href="https://ywhfamily.github.io/post/digit-matrix/">
+        <title type="html"><![CDATA[Relay Flip]]></title>
+        <id>https://ywhfamily.github.io/post/relay-flip/</id>
+        <link href="https://ywhfamily.github.io/post/relay-flip/">
         </link>
-        <updated>2021-02-14T13:18:54.000Z</updated>
-        <summary type="html"><![CDATA[<p>Training mathematical thinking. Improving computational skills. Thirteen type interesting puzzles. The ultimate brain challenges.</p>
+        <updated>2021-02-16T14:03:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>A Stroke Puzzle</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>Training mathematical thinking. Improving computational skills. Thirteen type interesting puzzles. The ultimate brain challenges.</p>
+        <content type="html"><![CDATA[<p>A Stroke Puzzle</p>
 <!-- more -->
-<p>Digit Matrix is a collection of interesting mathematics exercises. This APP can improve the ability of calculation and logical reasoning, and cultivate mathematical thinking. It includes topics ranging from simple to very difficult. It is a good helper in learning mathematics or training the brain.</p>
+<p>Relay Flip is interesting and simple. But it is not easy.<br>
+The rectangle board have some disordered black and white blocks. The surrounded grey blocks is the transition area. The board is divided into some subregion. Just draw a stroke on the blocks of each subregion. The black and white of the blocks where the line passed are reversed. For the subregion, the color of each row should be the same. The end of the line is next to the start of the next subregion. Finally the color of  rows corresponding in all subregion must be the same.<br>
+Feature:</p>
+<ol>
+<li>The size of board from 4<em>3 to 6</em>7.</li>
+<li>The number of subregion from 1 to 4.</li>
+<li>Concise interface and design.</li>
+</ol>
+<p>Rules:</p>
+<p>A. The whole board include disordered black and white blocks, and the gray block is the transition area.<br>
+B. The whole board is divided into several continuous sub areas.<br>
+C. Draw a continuous line in each sub area. The black and white of the block where the line passes is reversed.<br>
+D. The color of each row in the sub area should be the same. The end of the previous sub area is next to the start of the next sub area.<br>
+E. The color of the row corresponding to all sub areas is the same.</p>
+<p>Getting Support:<br>
+mail: ywhfamily@hotmail.com<br>
+or leave comment below.</p>
+<table>
+<tr align="center">
+<th>
+<a href="https://itunes.apple.com/cn/app/id1520989239"><img src="https://ywhfamily.github.io/images/ios.jpeg" alt="App Store"/></a>
+<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.education.subregion"><img src="https://ywhfamily.github.io/images/google.jpeg" alt="Google Play"/></a></p>
+</th>
+<th>
+<a href="https://itunes.apple.com/cn/app/id1520989239"><img src="https://ywhfamily.github.io/images/mac.jpeg" alt="Mac App Store"/></a>
+<p><a href="https://www.microsoft.com/store/apps/9P2TDS32ZLDT"><img src="https://ywhfamily.github.io/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
+</th>
+</tr>
+</table>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Puzzle Polygon]]></title>
+        <id>https://ywhfamily.github.io/post/15-puzzle-polygon/</id>
+        <link href="https://ywhfamily.github.io/post/15-puzzle-polygon/">
+        </link>
+        <updated>2021-02-16T14:02:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>15 Puzzle Enhanced Version. Fixed Block Mode and Irregular Board Mode. Three Shapes: Square, Triangle, Hexagon.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>15 Puzzle Enhanced Version. Fixed Block Mode and Irregular Board Mode. Three Shapes: Square, Triangle, Hexagon.</p>
+<!-- more -->
+<p>The n-puzzle include the 8 puzzle, the famous 15 puzzle, and with various names (Gem Puzzle, Boss Puzzle, Game of Fifteen, Mystic Square, etc.). It is a sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing. If the size is 3x3, the puzzle is called the 8-puzzle or 9-puzzle, and if 4x4, the puzzle is called the 15-puzzle or 16-puzzle. The object of the puzzle is to place the tiles in order by making sliding moves that use the empty space.</p>
+<p>This APP extended the classic 15-Puzzle to triangle and hexagon. Added fixed blocks and irregular board mode. There are Three modes, THREE shapes. Each have SIX difficulty.</p>
+<p>Main features:<br>
+Three play ways: Classic, Irregular and Fixed block.<br>
+Three shapes: square, triangle and hexagon.<br>
+Six difficulty: from small to large, from easy to difficult.<br>
+Infinite level, fragmented time, play if you want.<br>
+Simple operation and beautiful interface.</p>
+<p>Getting Support:<br>
+mail: ywhfamily@hotmail.com<br>
+or leave comment below.</p>
+<table>
+<tr align="center">
+<th>
+<a href="https://itunes.apple.com/cn/app/id1493750827"><img src="https://ywhfamily.github.io/images/ios.jpeg" alt="App Store"/></a>
+<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.game.puzzle15"><img src="https://ywhfamily.github.io/images/google.jpeg" alt="Google Play"/></a></p>
+</th>
+<th>
+<a href="https://itunes.apple.com/cn/app/id1493750839"><img src="https://ywhfamily.github.io/images/mac.jpeg" alt="Mac App Store"/></a>
+<p><a href="https://www.microsoft.com/store/apps/9PFZ9CQ36VLT"><img src="https://ywhfamily.github.io/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
+</th>
+</tr>
+</table>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overlap Elimination]]></title>
+        <id>https://ywhfamily.github.io/post/overlap-elimination/</id>
+        <link href="https://ywhfamily.github.io/post/overlap-elimination/">
+        </link>
+        <updated>2021-02-16T14:01:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>Puzzle 1 + 1 = 0,<br>
+Black &amp; White, Tricolor(Red, Green, Blue).<br>
+Challenge your brain.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Puzzle 1 + 1 = 0,<br>
+Black &amp; White, Tricolor(Red, Green, Blue).<br>
+Challenge your brain.</p>
+<!-- more -->
+<p>Overlap Elimination is an interesting puzzle game. The objective is moving the pieces to make the same shape showing on board.  The rule is: When even number pieces are overlapping, the overlapped part will be eliminated and display background(Black + Black = White). In Tricolor mode, when two different color pieces are overlapping the overlapped part will show another color(Red + Green = Blue).</p>
+<p>Player can make the shape at any place on the board.  Player also can overlap on the original shape.</p>
 <p>Feature:<br>
-Computing and Logical Reasoning<br>
-Thirteen types. Infinite exercises<br>
-Different Difficulties<br>
-Easy to get started<br>
-Five themes</p>
-<p>Contents:</p>
-<ol>
-<li>Arithmetic Square</li>
-<li>Chains</li>
-<li>SUMS</li>
-<li>Coins</li>
-<li>Hundred</li>
-<li>Antimagic Square</li>
-<li>Products</li>
-<li>Products (Off-by-One)</li>
-<li>Addends</li>
-<li>Equality</li>
-<li>Alphametic Square</li>
-<li>Matches Arithmetic</li>
-<li>Digit Twins</li>
-</ol>
-<p>Detail Information:</p>
-<ol>
-<li>
-<p>Arithmetic Square<br>
-Place the numbers from 1 to 9 into the cells (a different single number in each cell) so that the indicated equations are correct. Evaluate from left-to-right and top-to-bottom (ignore the usual precedence of the operators).</p>
-</li>
-<li>
-<p>Chains<br>
-Enter the numbers from 1 to X in the squares, once each, so that the given equations are correct. (Each equation begins at one square and ends at the next square; X is the total number of squares.)</p>
-</li>
-<li>
-<p>SUMS<br>
-Place a number from 1 to N into each cell. (N is the total number of cells in the grid.) Every cell must contain a different number. The numbers outside the grid, when given, indicate the sum of the numbers in the corresponding row, column, or diagonal.</p>
-</li>
-<li>
-<p>Coins<br>
-Place one coin into each cell such that the sum of the coins in each row and column matches the number to the left and the top. the same denomination may be used multiple times in each row or column.</p>
-</li>
-<li>
-<p>Hundred<br>
-A square grid whose cells are to be filled by some digits. The task is to fill additional digits in required cells such that the sum of numbers in each row and each column equals to 100.</p>
-</li>
-<li>
-<p>Antimagic Square<br>
-Place numbers from 1 to 2*N (N is the number of cells per side) into the cells so that there are exactly two numbers in each row, column and main diagonal. The sums of the two numbers are shown around the grid.</p>
-</li>
-<li>
-<p>Products<br>
-Place numbers from 1 to 2*N (N is the number of cells per side) into some cells so that each number is in exactly one cell, and no cell has more than one number. Each row and each column must contain exactly two numbers. Numbers outside the grid are the product of the two numbers in that row or column.</p>
-</li>
-<li>
-<p>Products (Off-by-One)<br>
-Place numbers from 1 to 2*N (N is the number of cells per side) into some cells so that each number is in exactly one cell, and no cell has more than one number. Each row and each column must contain exactly two numbers. Numbers outside the grid are 1 more or 1 less than the product of the two numbers in that row or column.</p>
-</li>
-<li>
-<p>Addends<br>
-Select Specified quantity of numbers from a given number set. Each number can not selected more than once. The sum of selected numbers must same as the given value.</p>
-</li>
-<li>
-<p>Equality<br>
-Delete Specified quantity of squares so that what remains is a correct equation. Use standard order of precedence (multiplication and division before addition and subtraction).</p>
-</li>
-<li>
-<p>Alphametic Square<br>
-Each letter represents a different digit.  Figure out which letter corresponds to which digit so that all equations are true.  Multi-digit numbers cannot start with the digit 0.</p>
-</li>
-<li>
-<p>Matches Arithmetic<br>
-Remove, Add or Move one to three matches so that the matches express a correct arithmetic equality. Click the match to remove it. Click the empty position to add the match.</p>
-</li>
-<li>
-<p>Digit Twins<br>
-Two numbers are connected by up to three line segments, and the two numbers are divided by their greatest common divisor at the same time. If the quotient is 1, the number will be eliminated. All numbers on the board need to be eliminated.</p>
-</li>
-</ol>
+Nine Packages, 1020 Levels.<br>
+Big Play Area, Cover Mode.<br>
+Six Themes</p>
 <p>Getting Support:<br>
 mail: ywhfamily@hotmail.com<br>
 or leave comment below.</p>
 <table>
 <tr align="center">
 <th>
-<a href="https://itunes.apple.com/cn/app/id1450134270"><img src="https://ywhfamily.github.io/images/ios.jpeg" alt="App Store"/></a>
-<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.education.digitmatrix"><img src="https://ywhfamily.github.io/images/google.jpeg" alt="Google Play"/></a></p>
+<a href="https://itunes.apple.com/cn/app/id1438283033"><img src="https://ywhfamily.github.io/images/ios.jpeg" alt="App Store"/></a>
+<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.education.overlap"><img src="https://ywhfamily.github.io/images/google.jpeg" alt="Google Play"/></a></p>
 </th>
 <th>
-<a href="https://itunes.apple.com/cn/app/id1450352656"><img src="https://ywhfamily.github.io/images/mac.jpeg" alt="Mac App Store"/></a>
-<p><a href="https://www.microsoft.com/store/apps/9NZDX1365JB4"><img src="https://ywhfamily.github.io/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
+<a href="https://itunes.apple.com/cn/app/id1437754475"><img src="https://ywhfamily.github.io/images/mac.jpeg" alt="Mac App Store"/></a>
+<p><a href="https://www.microsoft.com/store/apps/9NBW9NN8QQP8"><img src="https://ywhfamily.github.io/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
 </th>
 </tr>
 </table>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tangram & Polyform]]></title>
-        <id>https://ywhfamily.github.io/post/tangram-polyform/</id>
-        <link href="https://ywhfamily.github.io/post/tangram-polyform/">
+        <title type="html"><![CDATA[Polygon Block Game]]></title>
+        <id>https://ywhfamily.github.io/post/polygon-block-game/</id>
+        <link href="https://ywhfamily.github.io/post/polygon-block-game/">
         </link>
-        <updated>2021-02-07T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Fifteen Tiling Puzzles In One.</p>
+        <updated>2021-02-16T13:57:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>Four Tile Matching Game in One.</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>Fifteen Tiling Puzzles In One.</p>
+        <content type="html"><![CDATA[<p>Four Tile Matching Game in One.</p>
 <!-- more -->
+<p>This game include FOUR type of tile matching Games. The board consists of sticks, triangles, squares or hexagons.  The square board is same as famous 1010 or woody puzzle. But the stick board is rare to see. Each game have Five board size and More block shape types.  The game is simple and relaxing. Just drag the block and drop to the empty place of board.   when a line(Horizontal, vertical, diagonal) is filled with the blocks, they will disappear.</p>
+<p>How to Play</p>
 <ol>
-<li>
-<p>About Tangram &amp; Polyform<br>
-Tangram is China's most famous puzzle game. In the early nineteenth century tangram became the first international puzzle. There are many tangram style puzzle games in the world.<br>
-Polyform is a plane figure constructed by joining together identical basic polygons. The basic polygon is often a regular polygon, such as a square or a triangle.</p>
-</li>
-<li>
-<p>About This Game<br>
-This game contains nine types of tangram puzzles and six types polyform puzzles. Games and levels are constantly added. Tangram puzzles include the Chinese classic Tangram 15 pieces puzzle(Yi Zhi Tu) and Modern Tangram, as well as T puzzle, Heart-shaped puzzle, Pythagoras, Sphinx, Columbus' egg and Kreuzspiel. Polyform puzzles include Polystick, Polyiammond, Polyomino, Polyhex, Polyabolo and Polybrick. There are three kind of play methods. Not just move. You can play classic game(Move, Flip &amp; Rotate) or  for relaxing(Just Move).</p>
-</li>
+<li>Objective: Complete a line of blocks across the board to remove them. The more removed, The high scores.</li>
+<li>Play: Drag the block and drop it on the empty place of board.</li>
+<li>Click the icon on the upper right corner to renew blocks, Three chances in a round.</li>
 </ol>
-<p>Features:<br>
-A. 9 types of Tangram puzzles and 6 types of Polyform puzzles.<br>
-B. Three Play Methods.<br>
-C. About 3700 Levels and Will Add More.<br>
-D. Easy to Play.<br>
-E. Five Themes.</p>
-<ol start="3">
-<li>How to Play<br>
-A. This game have Three Play Methods.<br>
-Just Move.<br>
-Move &amp; Flip.<br>
-Move, Flip &amp; Rotate.</li>
-</ol>
-<p>B. Move:  Touch the Piece and move.<br>
-Flip:  Click the Piece.<br>
-Rotate:Long touch the Piece.</p>
-<p>C. Get Hint: Click the Hint Button. Each Level has 2 hints.</p>
 <p>Getting Support:<br>
 mail: ywhfamily@hotmail.com<br>
 or leave comment below.</p>
 <table>
 <tr align="center">
 <th>
-<a href="https://itunes.apple.com/cn/app/id1437352353"><img src="https://ywhfamily.github.io/images/ios.jpeg" alt="App Store"/></a>
-<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.game.tangram"><img src="https://ywhfamily.github.io/images/google.jpeg" alt="Google Play"/></a></p>
+<a href="https://itunes.apple.com/cn/app/id1443489763"><img src="https://ywhfamily.github.io/images/ios.jpeg" alt="App Store"/></a>
+<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.game.polyform_tile"><img src="https://ywhfamily.github.io/images/google.jpeg" alt="Google Play"/></a></p>
 </th>
 <th>
-<a href="https://itunes.apple.com/cn/app/id1437406341"><img src="https://ywhfamily.github.io/images/mac.jpeg" alt="Mac App Store"/></a>
-<p><a href="https://www.microsoft.com/store/apps/9NZ7W215BL1C"><img src="https://ywhfamily.github.io/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
+<a href="https://itunes.apple.com/cn/app/id1443485354"><img src="https://ywhfamily.github.io/images/mac.jpeg" alt="Mac App Store"/></a>
+<p><a href="https://www.microsoft.com/store/apps/9PMG418QL8VG"><img src="https://ywhfamily.github.io/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
 </th>
 </tr>
 </table>
