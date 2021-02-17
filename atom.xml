@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ywhfamily.github.io</id>
     <title>YWH Family</title>
-    <updated>2021-02-16T14:30:03.406Z</updated>
+    <updated>2021-02-17T01:50:37.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ywhfamily.github.io"/>
     <link rel="self" href="https://ywhfamily.github.io/atom.xml"/>
@@ -56,7 +56,7 @@ or leave comment below.</p>
 The rectangle board have some disordered black and white blocks. The surrounded grey blocks is the transition area. The board is divided into some subregion. Just draw a stroke on the blocks of each subregion. The black and white of the blocks where the line passed are reversed. For the subregion, the color of each row should be the same. The end of the line is next to the start of the next subregion. Finally the color of  rows corresponding in all subregion must be the same.<br>
 Feature:</p>
 <ol>
-<li>The size of board from 4<em>3 to 6</em>7.</li>
+<li>The size of board from 4x3 to 6x7.</li>
 <li>The number of subregion from 1 to 4.</li>
 <li>Concise interface and design.</li>
 </ol>
@@ -145,7 +145,7 @@ or leave comment below.</p>
 <tr align="center">
 <th>
 <a href="https://itunes.apple.com/cn/app/id1438283033"><img src="https://ywhfamily.github.io/images/ios.jpeg" alt="App Store"/></a>
-<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.education.overlap"><img src="https://ywhfamily.github.io/images/google.jpeg" alt="Google Play"/></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.game.overlap"><img src="https://ywhfamily.github.io/images/google.jpeg" alt="Google Play"/></a></p>
 </th>
 <th>
 <a href="https://itunes.apple.com/cn/app/id1437754475"><img src="https://ywhfamily.github.io/images/mac.jpeg" alt="Mac App Store"/></a>
