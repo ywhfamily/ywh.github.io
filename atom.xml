@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ywhfamily.github.io</id>
     <title>YWH Family</title>
-    <updated>2021-02-17T08:54:03.051Z</updated>
+    <updated>2021-03-04T01:16:32.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ywhfamily.github.io"/>
     <link rel="self" href="https://ywhfamily.github.io/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>https://ywhfamily.github.io/images/avatar.png</logo>
     <icon>https://ywhfamily.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, YWH Family</rights>
+    <entry>
+        <title type="html"><![CDATA[最强大脑游戏集锦]]></title>
+        <id>https://ywhfamily.github.io/post/zui-qiang-da-nao-you-xi-ji-jin/</id>
+        <link href="https://ywhfamily.github.io/post/zui-qiang-da-nao-you-xi-ji-jin/">
+        </link>
+        <updated>2021-03-04T00:27:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>江苏卫视“最强大脑”节目中的益智小游戏。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>江苏卫视“最强大脑”节目中的益智小游戏。</p>
+<!-- more -->
+<p>以下APP中包含最强大脑各季节目中的烧脑益智游戏，并且包含更多游戏和玩法。</p>
+<ul>
+<li><a href="/post/15-puzzle-polygon/">数字华容道多边形版</a>：数字迷盘，异形谜盘。</li>
+<li><a href="/post/relay-flip/">三人游 &amp; 提笔乾坤</a>：三人游，提笔乾坤。</li>
+<li><a href="/post/reverse-unified-color/">翻转 - 统一颜色</a>：黑白迭代，摸黑校位，旋转拼图，六色迷盘。</li>
+<li><a href="/post/digit-matrix/">数字矩阵</a>：血战到底（数字连连看）。</li>
+<li><a href="/post/overlap-elimination/">重叠消除</a>：层叠消融。</li>
+</ul>
+<p>更多APP：</p>
+<ul>
+<li><a href="/post/tangram-polyform/">七巧板与多连拼图</a>：拼图十五合一。</li>
+<li><a href="/post/polygon-block-game/">多边形消除</a>：四种消除游戏。</li>
+<li><a href="/post/brickmason/">砌砖工匠</a>：新颖的砖块拼图。</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reverse - Unified Color]]></title>
         <id>https://ywhfamily.github.io/post/reverse-unified-color/</id>
@@ -150,40 +176,6 @@ or leave comment below.</p>
 <th>
 <a href="https://itunes.apple.com/cn/app/id1437754475"><img src="https://ywhfamily.github.io/images/mac.jpeg" alt="Mac App Store"/></a>
 <p><a href="https://www.microsoft.com/store/apps/9NBW9NN8QQP8"><img src="https://ywhfamily.github.io/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
-</th>
-</tr>
-</table>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon Block Game]]></title>
-        <id>https://ywhfamily.github.io/post/polygon-block-game/</id>
-        <link href="https://ywhfamily.github.io/post/polygon-block-game/">
-        </link>
-        <updated>2021-02-16T13:57:19.000Z</updated>
-        <summary type="html"><![CDATA[<p>Four Tile Matching Game in One.</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>Four Tile Matching Game in One.</p>
-<!-- more -->
-<p>This game include FOUR type of tile matching Games. The board consists of sticks, triangles, squares or hexagons.  The square board is same as famous 1010 or woody puzzle. But the stick board is rare to see. Each game have Five board size and More block shape types.  The game is simple and relaxing. Just drag the block and drop to the empty place of board.   when a line(Horizontal, vertical, diagonal) is filled with the blocks, they will disappear.</p>
-<p>How to Play</p>
-<ol>
-<li>Objective: Complete a line of blocks across the board to remove them. The more removed, The high scores.</li>
-<li>Play: Drag the block and drop it on the empty place of board.</li>
-<li>Click the icon on the upper right corner to renew blocks, Three chances in a round.</li>
-</ol>
-<p>Getting Support:<br>
-mail: ywhfamily@hotmail.com<br>
-or leave comment below.</p>
-<table>
-<tr align="center">
-<th>
-<a href="https://itunes.apple.com/cn/app/id1443489763"><img src="https://ywhfamily.github.io/images/ios.jpeg" alt="App Store"/></a>
-<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.game.polyform_tile"><img src="https://ywhfamily.github.io/images/google.jpeg" alt="Google Play"/></a></p>
-</th>
-<th>
-<a href="https://itunes.apple.com/cn/app/id1443485354"><img src="https://ywhfamily.github.io/images/mac.jpeg" alt="Mac App Store"/></a>
-<p><a href="https://www.microsoft.com/store/apps/9PMG418QL8VG"><img src="https://ywhfamily.github.io/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
 </th>
 </tr>
 </table>
