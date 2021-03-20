@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/ywhfamily/ywh.github.io</id>
+    <id>https://ywhfamily.com/ywh.github.io</id>
     <title>YWH Family</title>
-    <updated>2021-03-20T13:46:48.043Z</updated>
+    <updated>2021-03-20T13:48:55.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/ywhfamily/ywh.github.io"/>
-    <link rel="self" href="https://github.com/ywhfamily/ywh.github.io/atom.xml"/>
+    <link rel="alternate" href="https://ywhfamily.com/ywh.github.io"/>
+    <link rel="self" href="https://ywhfamily.com/ywh.github.io/atom.xml"/>
     <subtitle>逻辑与数学谜题</subtitle>
-    <logo>https://github.com/ywhfamily/ywh.github.io/images/avatar.png</logo>
-    <icon>https://github.com/ywhfamily/ywh.github.io/favicon.ico</icon>
+    <logo>https://ywhfamily.com/ywh.github.io/images/avatar.png</logo>
+    <icon>https://ywhfamily.com/ywh.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, YWH Family</rights>
     <entry>
         <title type="html"><![CDATA[最强大脑游戏集锦]]></title>
-        <id>https://github.com/ywhfamily/ywh.github.io/post/zui-qiang-da-nao-you-xi-ji-jin/</id>
-        <link href="https://github.com/ywhfamily/ywh.github.io/post/zui-qiang-da-nao-you-xi-ji-jin/">
+        <id>https://ywhfamily.com/ywh.github.io/post/zui-qiang-da-nao-you-xi-ji-jin/</id>
+        <link href="https://ywhfamily.com/ywh.github.io/post/zui-qiang-da-nao-you-xi-ji-jin/">
         </link>
         <updated>2021-03-04T00:27:07.000Z</updated>
         <summary type="html"><![CDATA[<p>江苏卫视“最强大脑”节目中的益智小游戏。</p>
@@ -38,8 +38,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[翻转 - 统一颜色]]></title>
-        <id>https://github.com/ywhfamily/ywh.github.io/post/reverse-unified-color/</id>
-        <link href="https://github.com/ywhfamily/ywh.github.io/post/reverse-unified-color/">
+        <id>https://ywhfamily.com/ywh.github.io/post/reverse-unified-color/</id>
+        <link href="https://ywhfamily.com/ywh.github.io/post/reverse-unified-color/">
         </link>
         <updated>2021-02-16T14:03:29.000Z</updated>
         <summary type="html"><![CDATA[<p>最强大脑四合一。18种玩法。<br>
@@ -76,8 +76,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[三人游 & 提笔乾坤 ： 超级大脑挑战]]></title>
-        <id>https://github.com/ywhfamily/ywh.github.io/post/relay-flip/</id>
-        <link href="https://github.com/ywhfamily/ywh.github.io/post/relay-flip/">
+        <id>https://ywhfamily.com/ywh.github.io/post/relay-flip/</id>
+        <link href="https://ywhfamily.com/ywh.github.io/post/relay-flip/">
         </link>
         <updated>2021-02-16T14:03:07.000Z</updated>
         <summary type="html"><![CDATA[<p>两款一笔画线难题，最强大脑比赛项目。<br>
@@ -121,8 +121,8 @@ C、简洁的界面和设计。</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[数字华容道多边形版]]></title>
-        <id>https://github.com/ywhfamily/ywh.github.io/post/15-puzzle-polygon/</id>
-        <link href="https://github.com/ywhfamily/ywh.github.io/post/15-puzzle-polygon/">
+        <id>https://ywhfamily.com/ywh.github.io/post/15-puzzle-polygon/</id>
+        <link href="https://ywhfamily.com/ywh.github.io/post/15-puzzle-polygon/">
         </link>
         <updated>2021-02-16T14:02:22.000Z</updated>
         <summary type="html"><![CDATA[<p>数字谜盘，异形谜盘，多边形块，固定模式，多样玩法，最强大脑。</p>
@@ -153,8 +153,8 @@ C、简洁的界面和设计。</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[重叠消除]]></title>
-        <id>https://github.com/ywhfamily/ywh.github.io/post/overlap-elimination/</id>
-        <link href="https://github.com/ywhfamily/ywh.github.io/post/overlap-elimination/">
+        <id>https://ywhfamily.com/ywh.github.io/post/overlap-elimination/</id>
+        <link href="https://ywhfamily.com/ywh.github.io/post/overlap-elimination/">
         </link>
         <updated>2021-02-16T14:01:07.000Z</updated>
         <summary type="html"><![CDATA[<p>谜图 1 + 1 = 0，<br>
