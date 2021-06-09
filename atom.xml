@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ywhfamily.com</id>
     <title>YWH Family</title>
-    <updated>2021-04-05T09:15:33.325Z</updated>
+    <updated>2021-06-09T05:25:12.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.ywhfamily.com"/>
     <link rel="self" href="https://www.ywhfamily.com/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://www.ywhfamily.com/images/avatar.png</logo>
     <icon>https://www.ywhfamily.com/favicon.ico</icon>
     <rights>All rights reserved 2021, YWH Family</rights>
+    <entry>
+        <title type="html"><![CDATA[移动迷宫]]></title>
+        <id>https://www.ywhfamily.com/post/yi-dong-mi-gong/</id>
+        <link href="https://www.ywhfamily.com/post/yi-dong-mi-gong/">
+        </link>
+        <updated>2021-06-09T04:41:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>最强大脑同款挑战项目。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>最强大脑同款挑战项目。</p>
+<!-- more -->
+<p>1、 关于移动迷宫<br>
+移动迷宫是新颖有趣的推理类游戏，新一季最强大脑节目比赛项目。游戏目的是将笑脸图案从迷宫的左下角移动到右上角。每移动一步，迷宫中所有水平的墙向左移动一格，同时所有竖直的墙向下移动一格。每走一步，迷宫的结构都会发生变化。直到移动到终点。</p>
+<p>2、 如何游戏<br>
+A. 移动：笑脸图案可向四个方向移动，但不能穿过墙壁。有三种移动方式：点击屏幕上的方向按钮，在迷宫上向上下左右滑动，使用键盘的方向键（如果有）。<br>
+B. 重置：点击右上角的重置按钮。<br>
+C. 提示：点击正上方的提示按钮.</p>
+<p>技术支持:<br>
+邮箱: ywhfamily@hotmail.com<br>
+请在评论区留言。</p>
+<table>
+<tr align="center">
+<th>
+<a href="https://itunes.apple.com/cn/app/id1567142235"><img src="/images/ios.jpeg" alt="App Store"/></a>
+<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.game.moving-maze"><img src="/images/google.jpeg" alt="Google Play"/></a></p>
+</th>
+</tr>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最强大脑游戏集锦]]></title>
         <id>https://www.ywhfamily.com/post/zui-qiang-da-nao-you-xi-ji-jin/</id>
@@ -146,40 +175,6 @@ C、简洁的界面和设计。</p>
 <th>
 <a href="https://itunes.apple.com/cn/app/id1493750839"><img src="/images/mac.jpeg" alt="Mac App Store"/></a>
 <p><a href="https://www.microsoft.com/store/apps/9PFZ9CQ36VLT"><img src="/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
-</th>
-</tr>
-</table>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重叠消除]]></title>
-        <id>https://www.ywhfamily.com/post/overlap-elimination/</id>
-        <link href="https://www.ywhfamily.com/post/overlap-elimination/">
-        </link>
-        <updated>2021-02-16T14:01:07.000Z</updated>
-        <summary type="html"><![CDATA[<p>谜图 1 + 1 = 0，<br>
-黑与白，三原色（红绿蓝）。<br>
-最强大脑挑战。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>谜图 1 + 1 = 0，<br>
-黑与白，三原色（红绿蓝）。<br>
-最强大脑挑战。</p>
-<!-- more -->
-<p>重叠消除是一款有趣的拼图游戏，游戏目的是通过移动拼板做出和盘面上一样的图形，规则是：偶数的拼板重叠时，重叠部分消失，显示背景色（黑 + 黑 = 白）。三原色玩法中，不同颜色的两块拼板重叠时，重叠部分将显示另一种颜色（红 + 绿 = 蓝）。</p>
-<p>玩家可以在盘面任何地方做出图形，或者在覆盖在原图上。</p>
-<p>特性：<br>
-9个关卡包，1020关<br>
-大游戏区，覆盖模式<br>
-六种主题</p>
-<table>
-<tr align="center">
-<th>
-<a href="https://itunes.apple.com/cn/app/id1438283033"><img src="/images/ios.jpeg" alt="App Store"/></a>
-<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.game.overlap"><img src="/images/google.jpeg" alt="Google Play"/></a></p>
-</th>
-<th>
-<a href="https://itunes.apple.com/cn/app/id1437754475"><img src="/images/mac.jpeg" alt="Mac App Store"/></a>
-<p><a href="https://www.microsoft.com/store/apps/9NBW9NN8QQP8"><img src="/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
 </th>
 </tr>
 </table>
