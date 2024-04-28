@@ -2,14 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ywhfamily.com</id>
     <title>YWH Family</title>
-    <updated>2021-06-09T08:00:53.471Z</updated>
+    <updated>2024-04-28T05:05:42.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.ywhfamily.com"/>
     <link rel="self" href="https://www.ywhfamily.com/atom.xml"/>
     <subtitle>逻辑与数学谜题</subtitle>
     <logo>https://www.ywhfamily.com/images/avatar.png</logo>
     <icon>https://www.ywhfamily.com/favicon.ico</icon>
-    <rights>All rights reserved 2021, YWH Family</rights>
+    <rights>All rights reserved 2024, YWH Family</rights>
+    <entry>
+        <title type="html"><![CDATA[Q星探秘]]></title>
+        <id>https://www.ywhfamily.com/post/star-exploration/</id>
+        <link href="https://www.ywhfamily.com/post/star-exploration/">
+        </link>
+        <updated>2024-04-28T04:36:41.000Z</updated>
+        <content type="html"><![CDATA[<p>1、 关于Q星探秘<br>
+Q星探秘是新颖有趣的推理类游戏，新一季最强大脑节目比赛项目。星图被分为多个星区，部分星区含有一颗星球，颜色为红黄蓝之一。游戏目的是通过移动将不同颜色的三个星球聚合在一起，且从圆心划分的每个扇形区域中有且只有一个聚合星球。</p>
+<p>2、 如何游戏<br>
+A. 移动：每个星球最多只能移动一步。蓝色星球可斜向移动一格，绿色星球可左右或上下移动一格，红色星球可上下左右隔一格移动。<br>
+B. 放缩：点击 + - 按钮可放大缩小星图。在空白处拖拽可移动星图。<br>
+C. 撤销：点击右上角的撤销按钮。<br>
+D. 提示：点击正上方的提示按钮.</p>
+<p>Getting Support:<br>
+mail: ywhfamily@hotmail.com<br>
+or leave comment below.</p>
+<table>
+<tr align="center">
+<th>
+<a href="https://itunes.apple.com/cn/app/id6479958031"><img src="/images/ios.jpeg" alt="App Store"/></a>
+<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.education.star"><img src="/images/google.jpeg" alt="Google Play"/></a></p>
+</th>
+<th>
+<a href="https://itunes.apple.com/cn/app/id6479958031"><img src="/images/mac.jpeg" alt="Mac App Store"/></a>
+<p><a href="https://www.microsoft.com/store/apps/9NCM8RK8BP9L"><img src="/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
+</th>
+</tr>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[移动迷宫]]></title>
         <id>https://www.ywhfamily.com/post/yi-dong-mi-gong/</id>
@@ -143,38 +173,6 @@ C、简洁的界面和设计。</p>
 <th>
 <a href="https://itunes.apple.com/cn/app/id1520989239"><img src="/images/mac.jpeg" alt="Mac App Store"/></a>
 <p><a href="https://www.microsoft.com/store/apps/9P2TDS32ZLDT"><img src="/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
-</th>
-</tr>
-</table>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数字华容道多边形版]]></title>
-        <id>https://www.ywhfamily.com/post/15-puzzle-polygon/</id>
-        <link href="https://www.ywhfamily.com/post/15-puzzle-polygon/">
-        </link>
-        <updated>2021-02-16T14:02:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>数字谜盘，异形谜盘，多边形块，固定模式，多样玩法，最强大脑。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>数字谜盘，异形谜盘，多边形块，固定模式，多样玩法，最强大脑。</p>
-<!-- more -->
-<p>本APP将经典的数字华容道扩展到三角形和六边形，并添加了固定块模式和不规则模式（异形谜盘）。每一关都要认真思考。非常适合锻炼脑力，开发青少年智力，或闲时娱乐。</p>
-<p>新玩法、新挑战、新感受。</p>
-<p>主要特点：<br>
-三种玩法：经典数字谜盘、固定块玩法和异形谜盘玩法。<br>
-三种形状：正方形、三角形和六边形。<br>
-六种难度：从小到大，从易到难。<br>
-无限关卡，碎片时间，想玩就玩。<br>
-操作简单，界面精美。</p>
-<table>
-<tr align="center">
-<th>
-<a href="https://itunes.apple.com/cn/app/id1493750827"><img src="/images/ios.jpeg" alt="App Store"/></a>
-<p><a href="https://play.google.com/store/apps/details?id=indi.ywhfamily.game.puzzle15"><img src="/images/google.jpeg" alt="Google Play"/></a></p>
-</th>
-<th>
-<a href="https://itunes.apple.com/cn/app/id1493750839"><img src="/images/mac.jpeg" alt="Mac App Store"/></a>
-<p><a href="https://www.microsoft.com/store/apps/9PFZ9CQ36VLT"><img src="/images/microsoft.jpeg" alt="Microsoft Store"/></a></p>
 </th>
 </tr>
 </table>
